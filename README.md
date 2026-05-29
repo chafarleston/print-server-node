@@ -17,20 +17,33 @@ El Print Server corre en cada máquina cliente (Windows/Linux/Mac). Recibe datos
 
 ---
 
+## Requisitos
+
+- **Node.js** 18 o superior
+- **Windows:** PowerShell disponible (viene preinstalado)
+- **Linux/Mac:** CUPS con `lp` o `lpr`
+- Para impresión local en Windows: `raw-print.ps1` en la misma carpeta que `server.js`
+
+---
+
 ## Instalación
+
+### Rápida (Windows)
+
+Ejecutar `install.bat` como administrador. Este script:
+
+1. Verifica que Node.js esté instalado
+2. Ejecuta `npm install` para instalar dependencias
+3. Crea acceso directo en el escritorio
+4. Pregunta si deseas inicio automático al encender la PC
+5. Detecta y reemplaza instalaciones anteriores
+
+### Manual
 
 ```bash
 cd print-server-node
 npm install
 ```
-
-### Windows
-
-Colocar `raw-print.ps1` en la misma carpeta que `server.js`. Requiere PowerShell disponible.
-
-### Linux / Mac
-
-Requiere `lp` o `lpr` instalados (CUPS).
 
 ---
 
@@ -47,7 +60,20 @@ PORT=9100
 HOST=0.0.0.0
 ```
 
-Para producción en Windows, usar `start.bat` (detecta Node, instala dependencias e inicia).
+### Scripts de inicio
+
+| Script | Comportamiento |
+|--------|---------------|
+| `start.bat` | Ventana visible con autoreinicio automático si el servidor se detiene |
+| `start-minimized.vbs` | Inicia `start.bat` minimizado en la barra de tareas |
+| `start-hidden.vbs` | Inicia `start.bat` sin ventana visible (oculto) |
+| `create-shortcut.ps1` | Crea acceso directo en el escritorio que apunta a `start-hidden.vbs` |
+
+El `start.bat` además:
+- Deshabilita QuickEdit Mode (evita pausas accidentales al hacer clic en la consola)
+- Verifica que Node.js esté instalado
+- Instala dependencias automáticamente si faltan
+- Reinicia el servidor automáticamente si se cierra inesperadamente
 
 ---
 
@@ -83,7 +109,7 @@ Lista impresoras disponibles en el sistema operativo.
 
 ### `POST /print`
 
-Imprime datos ESC/POS en base64.
+Imprime datos ESC/POS en base64. Endpoint principal.
 
 **Body:**
 
@@ -102,7 +128,7 @@ Imprime datos ESC/POS en base64.
 - `mode` — `escpos` (por defecto). Activa auto-detección de encoding
 - `encoding` — `cp850` (por defecto)
 
-El servidor detecta si el payload necesita el comando de code page CP850 y lo inserta automáticamente.
+El servidor detecta si el payload necesita el comando de code page y lo inserta automáticamente.
 
 ### `POST /print-raw`
 
@@ -131,7 +157,18 @@ El servidor genera el ticket ESC/POS completo desde texto UTF-8.
 }
 ```
 
-Recomendado si solo manejás texto y no querés construir comandos ESC/POS manualmente.
+Recomendado si solo manejas texto y no quieres construir comandos ESC/POS manualmente.
+
+### `GET /open-drawer`
+
+Abre el cajón de dinero (cajón de efectivo). Endpoint GET para evitar preflight CORS.
+
+```
+GET /open-drawer?printer=CocinaLocal
+GET /open-drawer?ip=192.168.1.100&port=9100
+```
+
+Envía comando ESC/POS `ESC p 0 50 255` (pin 2).
 
 ---
 
@@ -139,7 +176,7 @@ Recomendado si solo manejás texto y no querés construir comandos ESC/POS manua
 
 ### Local (USB/Paralelo)
 
-Usa `raw-print.ps1` en Windows para enviar datos RAW directamente al puerto de la impresora.
+Usa `raw-print.ps1` en Windows para enviar datos RAW directamente al puerto de la impresora mediante la API Win32 `winspool.drv`.
 
 **Requisito:** `raw-print.ps1` debe estar en la misma carpeta que `server.js`.
 
@@ -154,10 +191,18 @@ Envía datos ESC/POS directamente al puerto 9100 de la impresora de red. Compati
 El servidor maneja automáticamente la codificación CP850 necesaria para impresoras térmicas:
 
 1. Al recibir datos ESC/POS, verifica si falta el comando `ESC t 0x02` (seleccionar code page PC850)
-2. Si falta, lo inserta al inicio
+2. Si falta, lo inserta al inicio junto con el comando `ESC @` (inicializar)
 3. Convierte el texto UTF-8 a CP850 usando `iconv-lite`
 
 Esto asegura que **ñ, tildes y mayúsculas acentuadas** se impriman correctamente en cualquier impresora térmica.
+
+### Code pages disponibles
+
+| Comando | Code Page |
+|---------|-----------|
+| `ESC t 0x02` | PC850 (Multilingual) — por defecto |
+| `ESC t 0x10` | WPC1252 (Windows Latin) |
+| `ESC t 0x26` | PC858 (Euro) |
 
 ---
 
@@ -177,11 +222,35 @@ Los logs se escriben en `print-server.log` en la misma carpeta. Rotación autom�
 
 ### `raw-print.ps1`
 
-Script PowerShell para impresión RAW en Windows. Envía datos directamente a la impresora usando la API Win32 Raw Printer.
+Script PowerShell para impresión RAW en Windows. Envía datos directamente a la impresora usando la API Win32 `winspool.drv` con las funciones:
+- `OpenPrinter` / `ClosePrinter`
+- `StartDocPrinter` / `EndDocPrinter`
+- `StartPagePrinter` / `EndPagePrinter`
+- `WritePrinter`
 
-### `start.bat`
+### `install.bat`
 
-Script de inicio para Windows. Detecta Node.js, instala dependencias si es necesario (`npm install`) e inicia el servidor.
+Instalador interactivo para Windows. Verifica Node.js, instala dependencias, crea acceso directo en el escritorio y configura inicio automático. Detecta instalaciones anteriores y ofrece reemplazarlas.
+
+### `abrir-puerto.bat`
+
+Abre el puerto 9100 en el firewall de Windows y muestra la IP local y pública. **Ejecutar como administrador.**
+
+### `disable-quick-edit.ps1`
+
+Deshabilita el modo QuickEdit de la consola de Windows para evitar que el servidor se pause accidentalmente al hacer clic en la ventana.
+
+### `create-shortcut.ps1`
+
+Crea un acceso directo en el escritorio que apunta a `start-hidden.vbs`. Usa el icono `shell32.dll,14`.
+
+### `start-hidden.vbs` / `start-minimized.vbs`
+
+Inician `start.bat` sin ventana visible (oculto) o minimizado en la barra de tareas respectivamente.
+
+### `scheduler.vbs`
+
+Ejecuta `php artisan schedule:run` para Laravel (no relacionado directamente con el print server).
 
 ---
 
@@ -194,6 +263,8 @@ Script de inicio para Windows. Detecta Node.js, instala dependencias si es neces
 | Caracteres extraños en ticket | Encoding incorrecto | Usar `mode: "escpos"` para auto-detección |
 | No imprime desde navegador | CORS bloqueado | El servidor ya maneja CORS; verificar que se use `localhost:9100` |
 | OPTIONS request sin POST | Private Network Access | El servidor responde con `Access-Control-Allow-Private-Network: true` |
+| QuickEdit pausa el servidor | QuickEdit Mode activado | Usar `start.bat` que lo deshabilita automáticamente |
+| Node.js no instalado | Ambiente no configurado | Instalar Node.js 18+ desde https://nodejs.org/ |
 
 ---
 
@@ -203,5 +274,3 @@ Script de inicio para Windows. Detecta Node.js, instala dependencias si es neces
 |--------|-----|
 | 9100 | HTTP API del Print Server |
 | 9100+ | Impresoras de red (socket TCP directo) |
-
----
