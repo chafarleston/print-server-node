@@ -220,6 +220,17 @@ Los logs se escriben en `print-server.log` en la misma carpeta. Rotación autom�
 
 ## Scripts Auxiliares
 
+### `install.bat`
+
+Instalador interactivo para Windows. Realiza todo el setup automatizado:
+
+1. Detecta instalaciones anteriores y ofrece reemplazarlas (limpia accesos directos viejos y nuevos tanto en escritorio como en inicio automático)
+2. Verifica que Node.js 18+ esté instalado (si no, muestra instrucciones de descarga)
+3. Ejecuta `npm install` para instalar dependencias
+4. Verifica que `raw-print.ps1` exista (advierte si falta)
+5. Crea acceso directo en el escritorio vía `create-shortcut.ps1`
+6. Pregunta si se desea configurar inicio automático al encender la PC (usa `start-hidden.vbs` en la carpeta Startup)
+
 ### `raw-print.ps1`
 
 Script PowerShell para impresión RAW en Windows. Envía datos directamente a la impresora usando la API Win32 `winspool.drv` con las funciones:
