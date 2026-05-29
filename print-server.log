@@ -1,0 +1,676 @@
+[2026-05-16T04:09:07.693Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-16T04:09:07.697Z] Platform: win32 | Node: v24.14.0
+[2026-05-16T04:09:10.139Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-16T04:09:55.003Z] Listed 9 printers
+[2026-05-16T04:10:59.458Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-16T04:10:59.464Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:10:59.473Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-16T04:19:27.130Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-16T04:19:27.133Z] Platform: win32 | Node: v24.14.0
+[2026-05-16T04:19:28.574Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-16T04:20:01.644Z] ESC/POS auto-converted UTF-8->cp850 (781 -> 786 bytes)
+[2026-05-16T04:20:01.647Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:20:01.651Z] Sent 786 bytes to 192.168.1.101:9100
+[2026-05-16T04:20:21.785Z] ESC/POS auto-converted UTF-8->cp850 (783 -> 788 bytes)
+[2026-05-16T04:20:21.787Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:20:21.791Z] Sent 788 bytes to 192.168.1.101:9100
+[2026-05-16T04:20:27.732Z] ESC/POS auto-converted UTF-8->cp850 (689 -> 694 bytes)
+[2026-05-16T04:20:27.735Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:20:27.739Z] Sent 694 bytes to 192.168.1.101:9100
+[2026-05-16T04:20:35.102Z] ESC/POS auto-converted UTF-8->cp850 (689 -> 694 bytes)
+[2026-05-16T04:20:35.104Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:20:35.107Z] Sent 694 bytes to 192.168.1.101:9100
+[2026-05-16T04:20:43.642Z] ESC/POS auto-converted UTF-8->cp850 (689 -> 694 bytes)
+[2026-05-16T04:20:43.645Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:20:43.648Z] Sent 694 bytes to 192.168.1.101:9100
+[2026-05-16T04:38:05.792Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-16T04:38:05.794Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:38:05.797Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-16T04:38:05.804Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-16T04:38:05.806Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:38:05.809Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-16T04:38:19.217Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-16T04:38:19.219Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:38:19.221Z] Sent 421 bytes to 192.168.1.101:9100
+[2026-05-16T04:38:22.318Z] ESC/POS auto-converted UTF-8->cp850 (689 -> 694 bytes)
+[2026-05-16T04:38:22.320Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:38:22.323Z] Sent 694 bytes to 192.168.1.101:9100
+[2026-05-16T04:38:27.569Z] ESC/POS auto-converted UTF-8->cp850 (736 -> 741 bytes)
+[2026-05-16T04:38:27.571Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:38:27.575Z] Sent 741 bytes to 192.168.1.101:9100
+[2026-05-16T04:39:53.061Z] ESC/POS auto-converted UTF-8->cp850 (472 -> 477 bytes)
+[2026-05-16T04:39:53.063Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:39:53.066Z] Sent 477 bytes to 192.168.1.101:9100
+[2026-05-16T04:39:58.869Z] ESC/POS auto-converted UTF-8->cp850 (735 -> 740 bytes)
+[2026-05-16T04:39:58.871Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:39:58.876Z] Sent 740 bytes to 192.168.1.101:9100
+[2026-05-16T04:40:09.165Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-16T04:40:09.167Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:40:09.170Z] Sent 421 bytes to 192.168.1.101:9100
+[2026-05-16T04:40:12.391Z] ESC/POS auto-converted UTF-8->cp850 (689 -> 694 bytes)
+[2026-05-16T04:40:12.393Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:40:12.397Z] Sent 694 bytes to 192.168.1.101:9100
+[2026-05-16T04:40:19.935Z] ESC/POS auto-converted UTF-8->cp850 (425 -> 430 bytes)
+[2026-05-16T04:40:19.938Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:40:19.940Z] Sent 430 bytes to 192.168.1.101:9100
+[2026-05-16T04:40:40.795Z] ESC/POS auto-converted UTF-8->cp850 (773 -> 778 bytes)
+[2026-05-16T04:40:40.799Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:40:40.803Z] Sent 778 bytes to 192.168.1.101:9100
+[2026-05-16T04:40:59.215Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-16T04:40:59.217Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:40:59.220Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-16T04:41:37.610Z] ESC/POS auto-converted UTF-8->cp850 (775 -> 780 bytes)
+[2026-05-16T04:41:37.612Z] Connected to 192.168.1.101:9100
+[2026-05-16T04:41:37.616Z] Sent 780 bytes to 192.168.1.101:9100
+[2026-05-16T05:07:14.482Z] ESC/POS auto-converted UTF-8->cp850 (565 -> 570 bytes)
+[2026-05-16T05:07:14.485Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:07:14.488Z] Sent 570 bytes to 192.168.1.101:9100
+[2026-05-16T05:07:14.498Z] ESC/POS auto-converted UTF-8->cp850 (463 -> 468 bytes)
+[2026-05-16T05:07:14.500Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:07:14.503Z] Sent 468 bytes to 192.168.1.101:9100
+[2026-05-16T05:09:10.891Z] ESC/POS auto-converted UTF-8->cp850 (472 -> 477 bytes)
+[2026-05-16T05:09:10.893Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:09:10.896Z] Sent 477 bytes to 192.168.1.101:9100
+[2026-05-16T05:09:39.229Z] ESC/POS auto-converted UTF-8->cp850 (625 -> 630 bytes)
+[2026-05-16T05:09:39.231Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:09:39.235Z] Sent 630 bytes to 192.168.1.101:9100
+[2026-05-16T05:09:39.241Z] ESC/POS auto-converted UTF-8->cp850 (532 -> 537 bytes)
+[2026-05-16T05:09:39.243Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:09:39.246Z] Sent 537 bytes to 192.168.1.101:9100
+[2026-05-16T05:09:39.253Z] ESC/POS auto-converted UTF-8->cp850 (528 -> 533 bytes)
+[2026-05-16T05:09:39.255Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:09:39.258Z] Sent 533 bytes to 192.168.1.101:9100
+[2026-05-16T05:11:15.723Z] ESC/POS auto-converted UTF-8->cp850 (520 -> 525 bytes)
+[2026-05-16T05:11:15.725Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:11:15.728Z] Sent 525 bytes to 192.168.1.101:9100
+[2026-05-16T05:11:15.734Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-16T05:11:15.736Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:11:15.739Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-16T05:11:27.325Z] ESC/POS auto-converted UTF-8->cp850 (916 -> 921 bytes)
+[2026-05-16T05:11:27.328Z] Connected to 192.168.1.101:9100
+[2026-05-16T05:11:27.332Z] Sent 921 bytes to 192.168.1.101:9100
+[2026-05-16T05:24:32.109Z] Listed 9 printers
+[2026-05-16T23:03:03.165Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-16T23:03:03.168Z] Platform: win32 | Node: v24.14.0
+[2026-05-16T23:03:04.406Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-16T23:25:28.362Z] Listed 9 printers
+[2026-05-16T23:48:13.603Z] Listed 9 printers
+[2026-05-16T23:48:17.504Z] Listed 9 printers
+[2026-05-17T00:02:30.616Z] ESC/POS auto-converted UTF-8->cp850 (519 -> 524 bytes)
+[2026-05-17T00:02:30.621Z] Connected to 192.168.1.101:9100
+[2026-05-17T00:02:30.625Z] Sent 524 bytes to 192.168.1.101:9100
+[2026-05-17T00:02:30.632Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-17T00:02:30.634Z] Connected to 192.168.1.101:9100
+[2026-05-17T00:02:30.636Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-17T00:02:30.642Z] ESC/POS auto-converted UTF-8->cp850 (463 -> 468 bytes)
+[2026-05-17T00:02:30.644Z] Connected to 192.168.1.101:9100
+[2026-05-17T00:02:30.646Z] Sent 468 bytes to 192.168.1.101:9100
+[2026-05-17T00:04:14.744Z] ESC/POS auto-converted UTF-8->cp850 (470 -> 475 bytes)
+[2026-05-17T00:04:14.747Z] Connected to 192.168.1.101:9100
+[2026-05-17T00:04:14.749Z] Sent 475 bytes to 192.168.1.101:9100
+[2026-05-17T00:04:14.757Z] ESC/POS auto-converted UTF-8->cp850 (463 -> 468 bytes)
+[2026-05-17T00:04:14.759Z] Connected to 192.168.1.101:9100
+[2026-05-17T00:04:14.762Z] Sent 468 bytes to 192.168.1.101:9100
+[2026-05-17T00:07:22.136Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T00:07:22.138Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T00:07:23.096Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T03:55:44.001Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T03:55:44.003Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T03:55:45.437Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T04:06:41.992Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T04:06:41.995Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T04:06:43.493Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T04:09:10.818Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T04:09:10.821Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T04:09:11.549Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T04:10:13.802Z] ESC/POS auto-converted UTF-8->cp850 (1212 -> 1217 bytes)
+[2026-05-17T04:10:13.805Z] Connected to 192.168.1.101:9100
+[2026-05-17T04:10:13.810Z] Sent 1217 bytes to 192.168.1.101:9100
+[2026-05-17T04:15:32.072Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T04:15:32.075Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T04:15:33.305Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T04:16:26.297Z] ESC/POS auto-converted UTF-8->cp850 (1212 -> 1217 bytes)
+[2026-05-17T04:16:26.300Z] Connected to 192.168.1.101:9100
+[2026-05-17T04:16:26.305Z] Sent 1217 bytes to 192.168.1.101:9100
+[2026-05-17T04:22:42.747Z] ESC/POS auto-converted UTF-8->cp850 (1212 -> 1217 bytes)
+[2026-05-17T04:22:42.749Z] Connected to 192.168.1.101:9100
+[2026-05-17T04:22:42.755Z] Sent 1217 bytes to 192.168.1.101:9100
+[2026-05-17T04:28:55.491Z] ESC/POS auto-converted UTF-8->cp850 (1212 -> 1217 bytes)
+[2026-05-17T04:28:55.494Z] Connected to 192.168.1.101:9100
+[2026-05-17T04:28:55.499Z] Sent 1217 bytes to 192.168.1.101:9100
+[2026-05-17T14:38:52.043Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T14:38:52.047Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T14:38:53.332Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T14:55:29.081Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T14:55:29.083Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T14:55:29.863Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T15:06:36.091Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T15:06:36.093Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T15:06:36.895Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T15:54:58.358Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T15:54:58.361Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T15:54:59.619Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T15:55:46.114Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-17T15:55:46.117Z] Connected to 192.168.1.101:9100
+[2026-05-17T15:55:46.120Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-17T15:55:46.130Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-17T15:55:46.132Z] Connected to 192.168.1.101:9100
+[2026-05-17T15:55:46.134Z] Sent 421 bytes to 192.168.1.101:9100
+[2026-05-17T15:56:51.542Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-17T15:56:51.543Z] Connected to 192.168.1.101:9100
+[2026-05-17T15:56:51.546Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-17T15:56:51.552Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-17T15:56:51.553Z] Connected to 192.168.1.101:9100
+[2026-05-17T15:56:51.555Z] Sent 421 bytes to 192.168.1.101:9100
+[2026-05-17T22:07:37.958Z] Listed 9 printers
+[2026-05-17T22:07:43.199Z] Listed 9 printers
+[2026-05-17T22:08:20.675Z] Listed 9 printers
+[2026-05-17T22:11:19.511Z] Listed 9 printers
+[2026-05-17T22:16:16.057Z] Listed 9 printers
+[2026-05-17T22:26:40.798Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-17T22:26:40.801Z] Platform: win32 | Node: v24.14.0
+[2026-05-17T22:26:41.535Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-17T22:41:47.454Z] Listed 9 printers
+[2026-05-17T22:42:07.874Z] Listed 9 printers
+[2026-05-17T22:42:29.437Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-17T22:42:29.440Z] Connected to 192.168.1.101:9100
+[2026-05-17T22:42:29.443Z] Sent 798 bytes to 192.168.1.101:9100
+[2026-05-18T13:37:24.606Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-18T13:37:24.610Z] Platform: win32 | Node: v24.14.0
+[2026-05-18T13:37:26.113Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-18T13:40:17.302Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-18T13:40:17.330Z] Platform: win32 | Node: v24.14.0
+[2026-05-18T13:40:20.550Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-18T14:38:26.038Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-18T14:38:26.048Z] Platform: win32 | Node: v24.14.0
+[2026-05-18T14:38:30.803Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-18T21:15:24.008Z] Listed 9 printers
+[2026-05-18T21:15:55.316Z] Listed 9 printers
+[2026-05-18T21:16:13.747Z] Listed 9 printers
+[2026-05-18T21:16:42.412Z] Listed 9 printers
+[2026-05-18T21:16:54.482Z] Listed 9 printers
+[2026-05-18T21:17:38.452Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-18T21:17:39.039Z] Printed OK to "COCINA" via RAW (798 bytes)
+[2026-05-19T00:11:49.858Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-19T00:11:54.895Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-19T00:11:59.867Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-19T00:12:04.921Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-19T00:12:49.984Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T00:12:50.553Z] Printed OK to "COCINA" via RAW (798 bytes)
+[2026-05-19T00:16:37.771Z] Listed 9 printers
+[2026-05-19T00:16:49.238Z] Listed 9 printers
+[2026-05-19T00:17:03.804Z] Listed 9 printers
+[2026-05-19T00:17:12.612Z] Listed 9 printers
+[2026-05-19T00:17:22.264Z] Listed 9 printers
+[2026-05-19T00:17:34.183Z] Listed 9 printers
+[2026-05-19T00:17:47.900Z] Listed 9 printers
+[2026-05-19T00:18:00.926Z] Listed 9 printers
+[2026-05-19T00:18:12.513Z] Listed 9 printers
+[2026-05-19T00:18:24.269Z] Listed 9 printers
+[2026-05-19T00:18:43.295Z] Listed 9 printers
+[2026-05-19T00:19:00.185Z] Listed 9 printers
+[2026-05-19T00:19:58.443Z] ESC/POS auto-converted UTF-8->cp850 (746 -> 751 bytes)
+[2026-05-19T00:20:08.455Z] Print failed: Connection timeout to 192.168.0.40:9100
+[2026-05-19T00:20:24.370Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-19T00:20:24.373Z] Platform: win32 | Node: v24.14.0
+[2026-05-19T00:20:25.184Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-19T00:20:36.889Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T00:20:46.905Z] Print failed: Connection timeout to 192.168.0.40:9100
+[2026-05-19T00:20:59.496Z] Listed 9 printers
+[2026-05-19T00:21:12.027Z] Listed 9 printers
+[2026-05-19T00:21:19.143Z] Listed 9 printers
+[2026-05-19T00:21:26.639Z] Listed 9 printers
+[2026-05-19T00:21:33.845Z] Listed 9 printers
+[2026-05-19T00:21:45.164Z] Listed 9 printers
+[2026-05-19T00:21:56.277Z] Listed 9 printers
+[2026-05-19T00:22:07.059Z] Listed 9 printers
+[2026-05-19T00:22:18.176Z] Listed 9 printers
+[2026-05-19T00:22:33.644Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T00:22:43.659Z] Print failed: Connection timeout to 192.168.0.140:9100
+[2026-05-19T00:22:48.325Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T00:22:58.329Z] Print failed: Connection timeout to 192.168.0.140:9100
+[2026-05-19T00:29:54.465Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-19T00:29:54.467Z] Platform: win32 | Node: v24.14.0
+[2026-05-19T00:29:55.241Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-19T00:36:01.465Z] Listed 9 printers
+[2026-05-19T00:38:03.059Z] Listed 9 printers
+[2026-05-19T00:38:49.349Z] Listed 9 printers
+[2026-05-19T00:45:06.160Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-19T00:45:06.207Z] Platform: win32 | Node: v24.14.0
+[2026-05-19T00:45:12.216Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-19T02:26:44.460Z] Listed 9 printers
+[2026-05-19T02:26:51.409Z] Listed 9 printers
+[2026-05-19T02:26:59.332Z] Listed 9 printers
+[2026-05-19T02:27:15.487Z] Listed 9 printers
+[2026-05-19T02:27:30.420Z] Listed 9 printers
+[2026-05-19T02:27:38.843Z] Listed 9 printers
+[2026-05-19T02:27:47.914Z] Listed 9 printers
+[2026-05-19T02:27:57.691Z] Listed 9 printers
+[2026-05-19T02:28:16.213Z] Listed 9 printers
+[2026-05-19T02:28:25.926Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-19T02:28:25.928Z] Platform: win32 | Node: v24.14.0
+[2026-05-19T02:28:26.665Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-19T02:31:51.499Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-19T02:31:56.506Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-19T02:32:01.502Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-19T02:32:01.529Z] ESC/POS auto-converted UTF-8->cp850 (746 -> 751 bytes)
+[2026-05-19T02:32:06.518Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-19T02:32:06.547Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T02:32:11.538Z] Print failed: Connection timeout to 192.168.0.40:9100
+[2026-05-19T02:32:11.566Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T02:32:16.557Z] Print failed: Connection timeout to 192.168.0.40:9100
+[2026-05-19T02:32:16.586Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T02:32:21.577Z] Print failed: Connection timeout to 192.168.0.140:9100
+[2026-05-19T02:32:26.592Z] Print failed: Connection timeout to 192.168.0.140:9100
+[2026-05-19T02:35:32.761Z] Listed 9 printers
+[2026-05-19T02:35:39.888Z] Listed 9 printers
+[2026-05-19T02:35:58.970Z] Listed 9 printers
+[2026-05-19T02:37:09.236Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-19T02:37:09.237Z] Connected to 192.168.1.101:9100
+[2026-05-19T02:37:09.241Z] Sent 798 bytes to 192.168.1.101:9100
+[2026-05-19T14:41:09.718Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-19T14:41:09.731Z] Platform: win32 | Node: v24.14.0
+[2026-05-19T14:41:15.777Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-19T15:48:08.257Z] Listed 9 printers
+[2026-05-19T19:18:30.047Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-19T19:18:35.025Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-19T19:18:40.039Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-19T19:18:40.066Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-19T19:18:45.033Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-19T19:18:50.058Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-20T02:08:23.043Z] Listed 9 printers
+[2026-05-20T02:41:48.899Z] Listed 9 printers
+[2026-05-20T02:53:07.494Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-20T02:53:07.496Z] Platform: win32 | Node: v24.14.0
+[2026-05-20T02:53:08.194Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-20T02:53:16.964Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-20T02:53:16.969Z] Connected to 192.168.1.101:9100
+[2026-05-20T02:53:16.971Z] Sent 478 bytes to 192.168.1.101:9100
+[2026-05-20T02:53:16.977Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-20T02:53:16.979Z] Connected to 192.168.1.101:9100
+[2026-05-20T02:53:16.982Z] Sent 431 bytes to 192.168.1.101:9100
+[2026-05-20T02:53:16.988Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-20T02:53:16.990Z] Connected to 192.168.1.101:9100
+[2026-05-20T02:53:16.992Z] Sent 421 bytes to 192.168.1.101:9100
+[2026-05-20T02:58:39.102Z] ESC/POS auto-converted UTF-8->cp850 (840 -> 845 bytes)
+[2026-05-20T02:58:39.104Z] Connected to 192.168.1.101:9100
+[2026-05-20T02:58:39.107Z] Sent 845 bytes to 192.168.1.101:9100
+[2026-05-20T02:58:39.132Z] ESC/POS auto-converted UTF-8->cp850 (840 -> 845 bytes)
+[2026-05-20T02:58:39.133Z] Connected to 192.168.1.101:9100
+[2026-05-20T02:58:39.136Z] Sent 845 bytes to 192.168.1.101:9100
+[2026-05-20T03:06:04.985Z] ESC/POS auto-converted UTF-8->cp850 (840 -> 845 bytes)
+[2026-05-20T03:06:04.987Z] Connected to 192.168.1.101:9100
+[2026-05-20T03:06:04.991Z] Sent 845 bytes to 192.168.1.101:9100
+[2026-05-20T03:06:09.196Z] ESC/POS auto-converted UTF-8->cp850 (840 -> 845 bytes)
+[2026-05-20T03:06:09.198Z] Connected to 192.168.1.101:9100
+[2026-05-20T03:06:09.202Z] Sent 845 bytes to 192.168.1.101:9100
+[2026-05-20T03:06:11.894Z] ESC/POS auto-converted UTF-8->cp850 (840 -> 845 bytes)
+[2026-05-20T03:06:11.896Z] Connected to 192.168.1.101:9100
+[2026-05-20T03:06:11.900Z] Sent 845 bytes to 192.168.1.101:9100
+[2026-05-20T03:06:47.194Z] ESC/POS auto-converted UTF-8->cp850 (486 -> 491 bytes)
+[2026-05-20T03:06:47.195Z] Connected to 192.168.1.101:9100
+[2026-05-20T03:06:47.198Z] Sent 491 bytes to 192.168.1.101:9100
+[2026-05-20T03:06:47.205Z] ESC/POS auto-converted UTF-8->cp850 (481 -> 486 bytes)
+[2026-05-20T03:06:47.207Z] Connected to 192.168.1.101:9100
+[2026-05-20T03:06:47.210Z] Sent 486 bytes to 192.168.1.101:9100
+[2026-05-20T03:29:10.710Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-20T03:29:10.713Z] Connected to 192.168.1.101:9100
+[2026-05-20T03:29:10.715Z] Sent 496 bytes to 192.168.1.101:9100
+[2026-05-20T13:48:49.742Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-20T13:48:49.746Z] Platform: win32 | Node: v24.14.0
+[2026-05-20T13:48:51.141Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-21T11:58:46.478Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-21T11:58:46.487Z] Platform: win32 | Node: v24.14.0
+[2026-05-21T11:58:50.623Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-21T18:46:12.686Z] Listed 9 printers
+[2026-05-21T18:55:56.739Z] Listed 9 printers
+[2026-05-21T18:59:43.231Z] ESC/POS auto-converted UTF-8->cp850 (5 -> 10 bytes)
+[2026-05-21T18:59:53.237Z] Print failed: Connection timeout to 192.168.1.101:9100
+[2026-05-21T19:00:55.391Z] ESC/POS auto-converted UTF-8->cp850 (5 -> 10 bytes)
+[2026-05-21T19:00:55.394Z] Connected to 192.168.1.101:9100
+[2026-05-21T19:00:55.397Z] Sent 10 bytes to 192.168.1.101:9100
+[2026-05-22T12:41:43.930Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-22T12:41:43.977Z] Platform: win32 | Node: v24.14.0
+[2026-05-22T12:41:47.562Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-22T18:47:39.471Z] Listed 9 printers
+[2026-05-22T18:52:19.626Z] Listed 9 printers
+[2026-05-23T15:00:34.251Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-23T15:00:34.264Z] Platform: win32 | Node: v24.14.0
+[2026-05-23T15:00:40.953Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-23T15:09:17.084Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-23T15:09:17.122Z] Platform: win32 | Node: v24.14.0
+[2026-05-23T15:09:21.619Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-24T14:49:49.216Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-24T14:49:49.225Z] Platform: win32 | Node: v24.14.0
+[2026-05-24T14:49:51.123Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-24T23:18:37.364Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-24T23:18:37.373Z] Platform: win32 | Node: v24.14.0
+[2026-05-24T23:18:39.210Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-24T23:23:30.251Z] Listed 9 printers
+[2026-05-24T23:23:53.354Z] Listed 9 printers
+[2026-05-24T23:24:13.989Z] Listed 9 printers
+[2026-05-24T23:24:22.665Z] Listed 9 printers
+[2026-05-24T23:24:33.761Z] Listed 9 printers
+[2026-05-24T23:24:51.618Z] Listed 9 printers
+[2026-05-24T23:25:14.394Z] Listed 9 printers
+[2026-05-24T23:25:27.395Z] Listed 9 printers
+[2026-05-24T23:25:38.982Z] Listed 9 printers
+[2026-05-24T23:26:03.786Z] ESC/POS auto-converted UTF-8->cp850 (775 -> 780 bytes)
+[2026-05-24T23:26:03.789Z] Print failed: Socket error to 192.168.1.101:9100: connect EHOSTUNREACH 192.168.1.101:9100
+[2026-05-24T23:26:03.797Z] ESC/POS auto-converted UTF-8->cp850 (887 -> 892 bytes)
+[2026-05-24T23:26:04.473Z] Printed OK to "CocinaLocal" via RAW (892 bytes)
+[2026-05-24T23:27:05.605Z] ESC/POS auto-converted UTF-8->cp850 (775 -> 780 bytes)
+[2026-05-24T23:27:05.607Z] Print failed: Socket error to 192.168.1.101:9100: connect EHOSTUNREACH 192.168.1.101:9100
+[2026-05-24T23:27:05.614Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-24T23:27:06.189Z] Printed OK to "CocinaLocal" via RAW (431 bytes)
+[2026-05-24T23:27:06.197Z] ESC/POS auto-converted UTF-8->cp850 (446 -> 451 bytes)
+[2026-05-24T23:27:06.751Z] Printed OK to "CocinaLocal" via RAW (451 bytes)
+[2026-05-24T23:28:55.081Z] ESC/POS auto-converted UTF-8->cp850 (775 -> 780 bytes)
+[2026-05-24T23:28:55.082Z] Print failed: Socket error to 192.168.1.101:9100: connect EHOSTUNREACH 192.168.1.101:9100
+[2026-05-24T23:28:55.097Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-24T23:28:55.615Z] Printed OK to "CocinaLocal" via RAW (496 bytes)
+[2026-05-24T23:34:03.654Z] ESC/POS auto-converted UTF-8->cp850 (501 -> 506 bytes)
+[2026-05-24T23:34:04.196Z] Printed OK to "CocinaLocal" via RAW (506 bytes)
+[2026-05-24T23:34:14.425Z] ESC/POS auto-converted UTF-8->cp850 (816 -> 821 bytes)
+[2026-05-24T23:34:14.920Z] Printed OK to "CocinaLocal" via RAW (821 bytes)
+[2026-05-24T23:43:17.530Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-24T23:43:18.043Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-24T23:44:09.234Z] ESC/POS auto-converted UTF-8->cp850 (793 -> 798 bytes)
+[2026-05-24T23:44:09.744Z] Printed OK to "CocinaLocal" via RAW (798 bytes)
+[2026-05-24T23:47:04.574Z] ESC/POS auto-converted UTF-8->cp850 (829 -> 834 bytes)
+[2026-05-24T23:47:05.267Z] Printed OK to "CocinaLocal" via RAW (834 bytes)
+[2026-05-24T23:47:57.085Z] ESC/POS auto-converted UTF-8->cp850 (513 -> 518 bytes)
+[2026-05-24T23:47:57.636Z] Printed OK to "CocinaLocal" via RAW (518 bytes)
+[2026-05-24T23:47:57.644Z] ESC/POS auto-converted UTF-8->cp850 (513 -> 518 bytes)
+[2026-05-24T23:47:58.221Z] Printed OK to "CocinaLocal" via RAW (518 bytes)
+[2026-05-24T23:47:58.229Z] ESC/POS auto-converted UTF-8->cp850 (461 -> 466 bytes)
+[2026-05-24T23:47:58.757Z] Printed OK to "CocinaLocal" via RAW (466 bytes)
+[2026-05-24T23:48:49.710Z] ESC/POS auto-converted UTF-8->cp850 (784 -> 789 bytes)
+[2026-05-24T23:48:50.320Z] Printed OK to "CocinaLocal" via RAW (789 bytes)
+[2026-05-24T23:49:01.589Z] ESC/POS auto-converted UTF-8->cp850 (737 -> 742 bytes)
+[2026-05-24T23:49:02.183Z] Printed OK to "CocinaLocal" via RAW (742 bytes)
+[2026-05-24T23:49:10.312Z] ESC/POS auto-converted UTF-8->cp850 (690 -> 695 bytes)
+[2026-05-24T23:49:10.906Z] Printed OK to "CocinaLocal" via RAW (695 bytes)
+[2026-05-24T23:49:59.875Z] ESC/POS auto-converted UTF-8->cp850 (737 -> 742 bytes)
+[2026-05-24T23:50:00.432Z] Printed OK to "CocinaLocal" via RAW (742 bytes)
+[2026-05-24T23:50:36.998Z] ESC/POS auto-converted UTF-8->cp850 (444 -> 449 bytes)
+[2026-05-24T23:50:37.507Z] Printed OK to "CocinaLocal" via RAW (449 bytes)
+[2026-05-24T23:50:37.515Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-24T23:50:38.093Z] Printed OK to "CocinaLocal" via RAW (421 bytes)
+[2026-05-24T23:50:48.840Z] ESC/POS auto-converted UTF-8->cp850 (737 -> 742 bytes)
+[2026-05-24T23:50:49.484Z] Printed OK to "CocinaLocal" via RAW (742 bytes)
+[2026-05-24T23:51:34.898Z] ESC/POS auto-converted UTF-8->cp850 (1147 -> 1152 bytes)
+[2026-05-24T23:51:35.425Z] Printed OK to "CocinaLocal" via RAW (1152 bytes)
+[2026-05-25T00:48:29.711Z] ESC/POS auto-converted UTF-8->cp850 (446 -> 451 bytes)
+[2026-05-25T00:48:30.337Z] Printed OK to "CocinaLocal" via RAW (451 bytes)
+[2026-05-25T00:49:44.589Z] ESC/POS auto-converted UTF-8->cp850 (761 -> 766 bytes)
+[2026-05-25T00:49:45.129Z] Printed OK to "CocinaLocal" via RAW (766 bytes)
+[2026-05-25T01:20:49.576Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-25T01:20:50.134Z] Printed OK to "CocinaLocal" via RAW (431 bytes)
+[2026-05-25T01:21:59.898Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-25T01:22:00.408Z] Printed OK to "CocinaLocal" via RAW (496 bytes)
+[2026-05-25T01:23:19.610Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-25T01:23:20.104Z] Printed OK to "CocinaLocal" via RAW (421 bytes)
+[2026-05-25T01:37:35.698Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-25T01:37:36.192Z] Printed OK to "CocinaLocal" via RAW (421 bytes)
+[2026-05-25T02:13:06.820Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T02:13:06.829Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T02:13:08.416Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T14:19:55.012Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T14:19:55.021Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T14:19:57.557Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T15:55:50.717Z] Listed 9 printers
+[2026-05-25T18:24:30.343Z] ESC/POS auto-converted UTF-8->cp850 (1010 -> 1015 bytes)
+[2026-05-25T18:24:30.358Z] ESC/POS auto-converted UTF-8->cp850 (1147 -> 1152 bytes)
+[2026-05-25T18:24:30.373Z] ESC/POS auto-converted UTF-8->cp850 (1147 -> 1152 bytes)
+[2026-05-25T18:24:31.452Z] Printed OK to "CocinaLocal" via RAW (1152 bytes)
+[2026-05-25T18:24:31.476Z] Printed OK to "CocinaLocal" via RAW (1152 bytes)
+[2026-05-25T18:24:31.498Z] Printed OK to "CocinaLocal" via RAW (1015 bytes)
+[2026-05-25T18:30:56.524Z] Listed 9 printers
+[2026-05-25T18:36:20.144Z] ESC/POS auto-converted UTF-8->cp850 (1147 -> 1152 bytes)
+[2026-05-25T18:36:20.707Z] Printed OK to "CocinaLocal" via RAW (1152 bytes)
+[2026-05-25T18:36:37.540Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T18:36:37.544Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T18:36:38.660Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T18:53:10.315Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T18:53:10.337Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T18:53:14.259Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T18:53:45.036Z] Listed 9 printers
+[2026-05-25T18:53:51.013Z] Listed 9 printers
+[2026-05-25T19:00:13.762Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T19:00:13.807Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T19:00:17.112Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T19:02:18.025Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T19:02:18.036Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T19:02:21.209Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T19:04:23.115Z] Listed 9 printers
+[2026-05-25T19:04:41.735Z] Listed 9 printers
+[2026-05-25T19:04:43.611Z] Listed 9 printers
+[2026-05-25T19:08:07.590Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-25T19:08:07.611Z] Platform: win32 | Node: v24.14.0
+[2026-05-25T19:08:11.619Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-25T19:08:49.523Z] Listed 9 printers
+[2026-05-25T19:41:04.536Z] ESC/POS auto-converted UTF-8->cp850 (5 -> 10 bytes)
+[2026-05-25T19:41:05.797Z] Printed OK to "CocinaLocal" via RAW (10 bytes)
+[2026-05-25T22:08:05.079Z] ESC/POS auto-converted UTF-8->cp850 (829 -> 834 bytes)
+[2026-05-25T22:08:05.898Z] Printed OK to "CocinaLocal" via RAW (834 bytes)
+[2026-05-25T22:12:35.704Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-25T22:12:36.210Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-25T22:12:51.330Z] ESC/POS auto-converted UTF-8->cp850 (513 -> 518 bytes)
+[2026-05-25T22:12:51.823Z] Printed OK to "CocinaLocal" via RAW (518 bytes)
+[2026-05-25T22:13:20.900Z] ESC/POS auto-converted UTF-8->cp850 (520 -> 525 bytes)
+[2026-05-25T22:13:21.452Z] Printed OK to "CocinaLocal" via RAW (525 bytes)
+[2026-05-25T22:13:43.528Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-25T22:13:44.009Z] Printed OK to "CocinaLocal" via RAW (496 bytes)
+[2026-05-25T22:14:39.102Z] ESC/POS auto-converted UTF-8->cp850 (1145 -> 1150 bytes)
+[2026-05-25T22:14:39.595Z] Printed OK to "CocinaLocal" via RAW (1150 bytes)
+[2026-05-26T01:33:06.555Z] ESC/POS auto-converted UTF-8->cp850 (614 -> 619 bytes)
+[2026-05-26T01:33:07.167Z] Printed OK to "CocinaLocal" via RAW (619 bytes)
+[2026-05-26T01:33:07.176Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-26T01:33:07.720Z] Printed OK to "CocinaLocal" via RAW (431 bytes)
+[2026-05-26T01:33:07.729Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-26T01:33:08.255Z] Printed OK to "CocinaLocal" via RAW (421 bytes)
+[2026-05-26T01:33:55.857Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-26T01:33:56.398Z] Printed OK to "CocinaLocal" via RAW (496 bytes)
+[2026-05-26T01:34:35.841Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-26T01:34:36.399Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-26T01:34:36.406Z] ESC/POS auto-converted UTF-8->cp850 (463 -> 468 bytes)
+[2026-05-26T01:34:36.950Z] Printed OK to "CocinaLocal" via RAW (468 bytes)
+[2026-05-26T01:35:05.657Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-26T01:35:06.284Z] Printed OK to "CocinaLocal" via RAW (431 bytes)
+[2026-05-26T01:35:06.292Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-26T01:35:06.798Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-26T01:35:06.806Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-26T01:35:07.315Z] Printed OK to "CocinaLocal" via RAW (421 bytes)
+[2026-05-26T01:35:27.555Z] ESC/POS auto-converted UTF-8->cp850 (466 -> 471 bytes)
+[2026-05-26T01:35:28.073Z] Printed OK to "CocinaLocal" via RAW (471 bytes)
+[2026-05-26T01:35:28.080Z] ESC/POS auto-converted UTF-8->cp850 (513 -> 518 bytes)
+[2026-05-26T01:35:28.580Z] Printed OK to "CocinaLocal" via RAW (518 bytes)
+[2026-05-26T01:35:28.587Z] ESC/POS auto-converted UTF-8->cp850 (461 -> 466 bytes)
+[2026-05-26T01:35:29.164Z] Printed OK to "CocinaLocal" via RAW (466 bytes)
+[2026-05-26T01:36:41.725Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-26T01:36:42.319Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-26T01:36:42.326Z] ESC/POS auto-converted UTF-8->cp850 (510 -> 515 bytes)
+[2026-05-26T01:36:42.861Z] Printed OK to "CocinaLocal" via RAW (515 bytes)
+[2026-05-26T01:37:00.680Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-26T01:37:01.373Z] Printed OK to "CocinaLocal" via RAW (496 bytes)
+[2026-05-26T01:37:30.294Z] ESC/POS auto-converted UTF-8->cp850 (1137 -> 1142 bytes)
+[2026-05-26T01:37:30.816Z] Printed OK to "CocinaLocal" via RAW (1142 bytes)
+[2026-05-26T02:02:02.074Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-26T02:02:02.629Z] Printed OK to "CocinaLocal" via RAW (431 bytes)
+[2026-05-26T02:17:11.721Z] Listed 9 printers
+[2026-05-26T02:17:16.635Z] Listed 9 printers
+[2026-05-26T02:17:30.968Z] Listed 9 printers
+[2026-05-26T02:17:37.432Z] Listed 9 printers
+[2026-05-26T02:17:43.379Z] Listed 9 printers
+[2026-05-26T02:17:49.884Z] Listed 9 printers
+[2026-05-26T02:17:55.971Z] Listed 9 printers
+[2026-05-26T02:18:03.907Z] Listed 9 printers
+[2026-05-26T02:18:21.806Z] Listed 9 printers
+[2026-05-26T02:51:07.432Z] Listed 9 printers
+[2026-05-26T13:08:00.472Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-26T13:08:00.482Z] Platform: win32 | Node: v24.14.0
+[2026-05-26T13:08:02.554Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-26T14:06:54.733Z] Listed 9 printers
+[2026-05-26T14:10:31.072Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-26T14:10:31.611Z] Printed OK to "CocinaLocal" via RAW (431 bytes)
+[2026-05-26T14:20:17.972Z] ESC/POS auto-converted UTF-8->cp850 (614 -> 619 bytes)
+[2026-05-26T14:20:18.545Z] Printed OK to "CocinaLocal" via RAW (619 bytes)
+[2026-05-26T14:20:38.842Z] ESC/POS auto-converted UTF-8->cp850 (491 -> 496 bytes)
+[2026-05-26T14:20:39.332Z] Printed OK to "CocinaLocal" via RAW (496 bytes)
+[2026-05-26T14:22:21.866Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-26T14:22:22.409Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-26T14:23:13.616Z] ESC/POS auto-converted UTF-8->cp850 (513 -> 518 bytes)
+[2026-05-26T14:23:14.104Z] Printed OK to "CocinaLocal" via RAW (518 bytes)
+[2026-05-26T14:23:36.850Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-26T14:23:37.333Z] Printed OK to "CocinaLocal" via RAW (478 bytes)
+[2026-05-26T14:25:34.212Z] ESC/POS auto-converted UTF-8->cp850 (1172 -> 1177 bytes)
+[2026-05-26T14:25:34.745Z] Printed OK to "CocinaLocal" via RAW (1177 bytes)
+[2026-05-26T14:33:21.403Z] ESC/POS auto-converted UTF-8->cp850 (2086 -> 2091 bytes)
+[2026-05-26T14:33:21.919Z] Printed OK to "CocinaLocal" via RAW (2091 bytes)
+[2026-05-26T14:36:15.601Z] ESC/POS auto-converted UTF-8->cp850 (2261 -> 2266 bytes)
+[2026-05-26T14:36:16.116Z] Printed OK to "CocinaLocal" via RAW (2266 bytes)
+[2026-05-26T17:25:10.212Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-26T17:25:10.232Z] Platform: win32 | Node: v24.14.0
+[2026-05-26T17:25:12.757Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-27T01:15:25.205Z] Listed 9 printers
+[2026-05-27T01:15:28.302Z] Listed 9 printers
+[2026-05-27T01:15:45.236Z] Listed 9 printers
+[2026-05-27T01:15:54.858Z] Listed 9 printers
+[2026-05-27T01:16:03.932Z] Listed 9 printers
+[2026-05-27T01:16:11.133Z] Listed 9 printers
+[2026-05-27T01:16:19.249Z] Listed 9 printers
+[2026-05-27T01:16:30.897Z] Listed 9 printers
+[2026-05-27T01:16:38.381Z] Listed 9 printers
+[2026-05-27T01:16:45.815Z] Listed 9 printers
+[2026-05-27T01:19:56.270Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-27T01:19:56.274Z] Connected to 192.168.0.101:9100
+[2026-05-27T01:19:56.285Z] Sent 431 bytes to 192.168.0.101:9100
+[2026-05-27T01:19:56.290Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-27T01:19:56.293Z] Connected to 192.168.0.101:9100
+[2026-05-27T01:19:56.300Z] Sent 421 bytes to 192.168.0.101:9100
+[2026-05-27T13:41:31.702Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-27T13:41:31.706Z] Platform: win32 | Node: v24.14.0
+[2026-05-27T13:41:35.524Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-27T14:36:01.434Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-27T14:36:01.437Z] Platform: win32 | Node: v24.14.0
+[2026-05-27T14:36:03.162Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-27T16:53:02.587Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-27T16:53:02.597Z] Platform: win32 | Node: v24.14.0
+[2026-05-27T16:53:04.411Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:10:11.692Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:10:11.704Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:10:14.972Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:24:01.426Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:24:01.428Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:24:02.892Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:24:43.418Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:24:43.421Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:24:44.328Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:25:04.396Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:25:04.399Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:25:05.236Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:28:10.290Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:28:10.294Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:28:11.182Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:28:59.374Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:28:59.377Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:29:00.180Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:29:33.338Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:29:33.341Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:29:34.143Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:36:11.350Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:36:11.353Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:36:12.157Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:36:46.367Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:36:46.370Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:36:47.171Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:56:02.374Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:56:02.377Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:56:03.223Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T02:56:41.368Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T02:56:41.371Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T02:56:42.179Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:02:25.383Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:02:25.385Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:02:26.675Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:03:08.431Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:03:08.437Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:03:09.741Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:05:53.327Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:05:53.330Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:05:54.141Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:06:30.293Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:06:30.296Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:06:31.099Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:07:23.338Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:07:23.341Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:07:24.165Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:09:07.954Z] Listed 10 printers
+[2026-05-28T03:09:25.972Z] Listed 10 printers
+[2026-05-28T03:09:46.584Z] Listed 10 printers
+[2026-05-28T03:09:55.470Z] Listed 10 printers
+[2026-05-28T03:10:08.772Z] Listed 10 printers
+[2026-05-28T03:10:18.012Z] Listed 10 printers
+[2026-05-28T03:10:25.250Z] Listed 10 printers
+[2026-05-28T03:10:35.307Z] Listed 10 printers
+[2026-05-28T03:11:29.198Z] ESC/POS auto-converted UTF-8->cp850 (426 -> 431 bytes)
+[2026-05-28T03:11:29.200Z] Connected to 192.168.1.52:9101
+[2026-05-28T03:11:29.204Z] Sent 431 bytes to 192.168.1.52:9101
+[2026-05-28T03:11:57.665Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-28T03:11:57.667Z] Connected to 192.168.1.52:9101
+[2026-05-28T03:11:57.669Z] Sent 478 bytes to 192.168.1.52:9101
+[2026-05-28T03:11:57.677Z] ESC/POS auto-converted UTF-8->cp850 (416 -> 421 bytes)
+[2026-05-28T03:11:57.678Z] Connected to 192.168.1.52:9101
+[2026-05-28T03:11:57.679Z] Sent 421 bytes to 192.168.1.52:9101
+[2026-05-28T03:17:54.352Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:17:54.355Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:17:55.402Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:18:35.295Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:18:35.297Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:18:36.085Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:20:10.386Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:20:10.388Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:20:11.239Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:21:06.368Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:21:06.371Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:21:07.187Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:25:40.325Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:25:40.328Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:25:41.373Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:26:25.458Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:26:25.461Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:26:26.340Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:35:20.400Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:35:20.403Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:35:21.203Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:36:27.366Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:36:27.368Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:36:28.205Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:42:53.446Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:42:53.449Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:42:54.304Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:43:33.446Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:43:33.449Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:43:34.350Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T03:50:53.266Z] ESC/POS auto-converted UTF-8->cp850 (473 -> 478 bytes)
+[2026-05-28T03:50:53.269Z] Connected to 192.168.1.52:9101
+[2026-05-28T03:50:53.272Z] Sent 478 bytes to 192.168.1.52:9101
+[2026-05-28T03:50:53.280Z] ESC/POS auto-converted UTF-8->cp850 (463 -> 468 bytes)
+[2026-05-28T03:50:53.281Z] Connected to 192.168.1.52:9101
+[2026-05-28T03:50:53.282Z] Sent 468 bytes to 192.168.1.52:9101
+[2026-05-28T03:55:21.349Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T03:55:21.351Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T03:55:22.146Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T13:34:49.113Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T13:34:49.122Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T13:34:51.628Z] Available printers: Brother DCP-T420W Printer, POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, AnyDesk Printer
+[2026-05-28T14:15:08.976Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T14:15:08.987Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T14:15:12.474Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, Brother DCP-T420W Printer, AnyDesk Printer
+[2026-05-28T16:23:19.666Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-28T16:23:19.677Z] Platform: win32 | Node: v24.14.0
+[2026-05-28T16:23:23.225Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, Brother DCP-T420W Printer, AnyDesk Printer
+[2026-05-29T00:42:06.205Z] === Print Server running on http://0.0.0.0:9100 ===
+[2026-05-29T00:42:06.215Z] Platform: win32 | Node: v24.14.0
+[2026-05-29T00:42:08.470Z] Available printers: POS-80C, Microsoft XPS Document Writer, Microsoft Print to PDF, Fax, EPSON L5190 Series (Copiar 3), EPSON L5190 Series (Copiar 2), CocinaLocal, COCINA, Brother DCP-T420W Printer, AnyDesk Printer
